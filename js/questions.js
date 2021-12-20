@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Commonly used data types do NOT include:",
+    answer: "alerts",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "strings",
+      "booleans",
+      "alerts",
+      "numbers"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "The condition in an if/else statement is enclosed with __________.",
+    answer: "parenthesis",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "quotes",
+      "curly brackets",
+      "parenthesis",
+      "square brackets"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "Arrays in javaScript can be used to store __________.",
+    answer: "all of the above",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "numbers and strings",
+      "other arrays",
+      "booleans",
+      "all of the above"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "String values must be enclosed within _____ when being assigned to variables.",
+    answer: "quotes",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "commas",
+      "curly brackets",
+      "quotes",
+      "parenthesis"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "A very useful tool used during develpment and debugging for printing content to the debugger is:",
+    answer: "console log",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "JavaScript",
+      "terminal/bash",
+      "for loops",
+      "console log"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
